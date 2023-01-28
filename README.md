@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Richard Sennra
+## Oiii! Eu sou o Richard Senra
 
 <div>
   <a href="https://github.com/richardsenra">
